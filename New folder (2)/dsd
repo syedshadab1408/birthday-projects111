@@ -1,0 +1,5 @@
+ <div class="memory-card">
+                <img src="C:\Users\syeds\OneDrive\Desktop\New folder (2)\IMG_4002.JPG.jpeg" alt="Memory"
+                    class="memory-image">
+                <div class="memory-hover-overlay">
+                    <p class="hover-message">Every second with you is a gift 🌹</p>
